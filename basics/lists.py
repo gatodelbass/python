@@ -9,3 +9,25 @@ print(dogs[-3])
 #add elements to the list
 #appending at end
 print(dogs[0])
+
+dogs.append("lazy")
+print(dogs)
+
+#insert method inserts at specific index and moves the other
+#elements to the right
+
+#remove element
+#del dogs[2]
+
+#print(dogs)
+
+#remove the last element with pop()
+
+#remove by value
+#dogs.remove("salchicha")
+#print(dogs)
+
+dogs.sort()
+print(dogs)
+
+
